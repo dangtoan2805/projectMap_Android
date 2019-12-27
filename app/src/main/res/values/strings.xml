@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Quản lí địa điểm Ministop</string>
+    <string name="nav_header_subtitle">Nhóm 9 - Lập trình Android Thứ 5 Ca1</string>
+</resources>
